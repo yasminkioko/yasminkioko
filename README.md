@@ -1,4 +1,4 @@
-## hey, Bem vindo! Eu sou a Yasmin 
+## hey, Bem vindo! Eu sou a Yasmin Kioko 
 
 - 🚗 Projeto Anterior: Mini Baja Elétrico
 - 💻 Projeto Atual: Programa que Projeta um Redutor de Velocidade  
